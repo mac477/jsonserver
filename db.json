@@ -1,12 +1,11 @@
 {
-"tasks":
-[
-  {"name" : "pierwsze,
-  "id" : 1,
-  },
-  {
-  "name" : "drugie",
-  "id": 2
+  "tasks": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
 }
